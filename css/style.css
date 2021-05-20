@@ -98,7 +98,27 @@ i{
     background-color: #99e9e5;
 }
 #Portfolio{
-    background-color: #ffffff;
+    background-color: #c9f3e9;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+}
+.pro1 {
+    background-color:#ffffff;
+    width: 40%;
+    border: 2px solid grey;
+    border-radius: 5px;
+    box-shadow: 2px grey;
+    padding: 5px;
+}
+.pro2{
+    background-color:white;
+    width: 40%;
+    border: 2px solid grey;
+    border-radius: 5px;
+    box-shadow: 2px grey;
+    padding: 5px;
 }
 
 
